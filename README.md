@@ -6,9 +6,7 @@ Joint meeting with OCF in Amsterdam
 Day 1: Location TBD
 
 Day 2: 
-Renaissance Amsterdam Hotel 
-Kattengat 1, Amsterdam
-1012 SZ The Netherlands
+Renaissance Amsterdam Hotel. Kattengat 1, Amsterdam. 1012 SZ The Netherlands
 
 
 # Agenda
