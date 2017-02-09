@@ -11,6 +11,8 @@ Renaissance Amsterdam Hotel. Kattengat 1, Amsterdam. 1012 SZ The Netherlands
 
 # Draft Agenda
 
+Note that this is a draft agenda and all times are subject to change.
+
 Day 1 (9th of March): T2TRG work meeting
 
 |        |                   |
@@ -26,10 +28,10 @@ Day 2 (morning; 10th of March): Joint meeting with OCF
 
 |        |                   |
 |--------|-------------------|
-| 9:00   | Welcome and intro |
-| 9:10   | IoT at IETF/IRTF; status and direction |
-| 9:30   | OCF status and direction | 
-| 9:50   | Discussion on common interest areas |
+| 8:00   | Welcome and intro |
+| 8:10   | IoT at IETF/IRTF; status and direction |
+| 8:30   | OCF status and direction | 
+| 8:50   | Discussion on common interest areas |
 | 12:00  | Lunch |
 
 Details TBD
