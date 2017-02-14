@@ -1,5 +1,5 @@
 # 2017-03-ocf
-T2TRG work meeting and a joint meeting with OCF in Amsterdam, 9-10th March, 2017.
+T2TRG work meeting and a joint meeting with the [Open Connectivity Foundation (OCF)](https://openconnectivity.org/) in Amsterdam, 9-10th March, 2017.
 
 The goal of the joint meeting with OCF is to share information and work on topics of common interest. In the RG work meeting the idea is to progress the work of relevant RG and IETF work items and identify new ones where needed.
 
