@@ -32,14 +32,6 @@ Note that this is a draft agenda and all times are subject to change.
 | 13:30  | Breakout sessions |
 | ~16:00 | Done for the day  |
 
-### Proposed topics for breakouts
-
-Morning session
-- RESTful Design
- 
-Afternoon session
-- Security
-
 ## Day 2 (morning; 10th of March): Joint meeting with OCF
 
 |        |                   |
