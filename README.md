@@ -21,18 +21,28 @@ Renaissance Amsterdam Hotel. Kattengat 1, Amsterdam. 1012 SZ The Netherlands
 
 Note that this is a draft agenda and all times are subject to change.
 
-Day 1 (9th of March): T2TRG work meeting
+## Day 1 (9th of March): T2TRG work meeting
 
 |        |                   |
 |--------|-------------------|
 | 10:00  | Welcome and intro |
 | 10:15  | Work item bashing |
-| 10:30  | Breakout sessions | 
+| 10:30  | Breakout sessions |
 | 12:00  | Lunch             |
 | 13:30  | Breakout sessions |
 | ~16:00 | Done for the day  |
 
-Day 2 (morning; 10th of March): Joint meeting with OCF
+### Proposed topics for breakouts
+
+Morning sesssion
+- RESTful Design
+- ...
+ 
+Afternoon session
+- Security
+- ...
+
+## Day 2 (morning; 10th of March): Joint meeting with OCF
 
 |        |                   |
 |--------|-------------------|
@@ -42,4 +52,21 @@ Day 2 (morning; 10th of March): Joint meeting with OCF
 | 8:50   | Discussion on common interest areas |
 | 12:00  | Lunch |
 
-Details TBD
+### Discussion topics for the joint meeting
+
+RESTful Interaction
+- Semantics
+- Interaction models
+- Links and forms for IoT
+
+Security
+- Application layer security protocols for IoT
+- IoT Device Lifecycle Management
+
+Connectivity and Reachability
+- Ubiquitous reachability of things
+- CoAP over TCP
+
+Best Practices
+- Design patterns
+- Taxonomy and terminology
