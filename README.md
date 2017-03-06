@@ -12,10 +12,31 @@ The registration is free of cost but needed for us to estimate need for meeting 
 
 # Where
 
-Day 1: Location TBD (somewhere close to venue of Day 2)
+## Day 1
 
-Day 2: 
+Ambassade Hotel. Herengracht 341, 1016 AZ Amsterdam.
+
+The Embassy meeting room.
+
+### Remote participation 
+
+If Wi-Fi connection allows, will setup Google hangout. Coordinates will be announced on the list.
+
+## Day 2
+
 Renaissance Amsterdam Hotel. Kattengat 1, Amsterdam. 1012 SZ The Netherlands
+
+Dan Haag meeting room (ground level). Check-in at the registration
+
+### Remote participation
+
+[OCF WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=md682bd2f347e273e968698e045e333f6)
+
+When logging into WebEx, please list your company followed by your name – i.e. [Company] Your Name
+
+For joining via phone: [Global call-in numbers](https://openconnectivity.webex.com/openconnectivity/globalcallin.php?serviceType=MC&ED=508740632&tollFree=1)
+
+Meeting Number: 926 302 130 
 
 # Draft Agenda
 
