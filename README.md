@@ -23,7 +23,7 @@ Note that this is a draft agenda and all times are subject to change.
 
 ## Day 1 (9th of March): T2TRG work meeting
 
-|        |                   |
+| Time   | Topic             |
 |--------|-------------------|
 | 10:00  | Welcome and intro |
 | 10:15  | Work item bashing |
@@ -34,29 +34,27 @@ Note that this is a draft agenda and all times are subject to change.
 
 ## Day 2 (morning; 10th of March): Joint meeting with OCF
 
-|        |                   |
-|--------|-------------------|
-| 8:00   | Welcome and intro |
-| 8:10   | IoT at IETF/IRTF; status and direction |
-| 8:30   | OCF status and direction | 
-| 8:50   | Discussion on common interest areas |
-| 12:00  | Lunch |
+| Time   | Topic                                          |
+|--------|------------------------------------------------|
+| 8:00   | Welcome and intro                              |
+| 8:10   | IoT at IETF/IRTF; status and direction         |
+| 8:35   | OCF status and direction                       | 
+| 9:00   | Security                                       |
+|        | - Application layer security protocols for IoT |
+|        | - IoT Device Lifecycle Management              |
+| 9:40   | RESTful Interaction                            |
+|        | - Semantics                                    |
+|        | - Interaction models                           |
+|        | - Links and forms for IoT                      |
+| 10:10  | Break                                          |
+| 10:30  | Connectivity and Reachability                  |
+|        | - Ubiquitous reachability of things            |
+|        | - CoAP over TCP                                |
+| 11:10  | Best Practices                                 |
+|        | - Design patterns                              |
+|        | - Taxonomy and terminology                     |
+| 11:40  | Closing recap and summary of next steps        |
+| 12:00  | Meeting ends. Lunch.                           |
 
-### Discussion topics for the joint meeting
+   
 
-RESTful Interaction
-- Semantics
-- Interaction models
-- Links and forms for IoT
-
-Security
-- Application layer security protocols for IoT
-- IoT Device Lifecycle Management
-
-Connectivity and Reachability
-- Ubiquitous reachability of things
-- CoAP over TCP
-
-Best Practices
-- Design patterns
-- Taxonomy and terminology
