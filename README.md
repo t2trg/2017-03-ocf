@@ -14,9 +14,9 @@ The registration is free of cost but needed for us to estimate need for meeting 
 
 ## Day 1
 
-Ambassade Hotel. Herengracht 341, 1016 AZ Amsterdam.
+The Embassy meeting room of Ambassade Hotel.
 
-The Embassy meeting room.
+Note that the meeeting room is about 100 meters from the hotel. The address of the room is Singel 328, Amsterdam. [(see Google Maps)](https://goo.gl/maps/4wjoegcgBEs).
 
 ### Remote participation 
 
