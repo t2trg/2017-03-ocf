@@ -16,7 +16,7 @@ The registration is free of cost but needed for us to estimate need for meeting 
 
 The Embassy meeting room of Ambassade Hotel.
 
-Note that the meeeting room is about 100 meters from the hotel. The address of the room is Singel 328, Amsterdam. [(see Google Maps)](https://goo.gl/maps/4wjoegcgBEs).
+Note that the meeting room is about 100 meters from the hotel. The address of the room is Singel 328, Amsterdam. [(see Google Maps)](https://goo.gl/maps/4wjoegcgBEs).
 
 ### Remote participation 
 
