@@ -20,6 +20,12 @@ Note that the meeting room is about 100 meters from the hotel. The address of th
 
 Live meeting minutes: https://docs.google.com/document/d/1Owfba-bV_iVhjBnWya9R34jM8aixN58CAHirNI8uQcQ/edit?usp=sharing
 
+### Social gathering
+
+19:30 at MAX Amsterdam
+
+[Herenstraat 14](https://goo.gl/maps/CXcBtadsZy52)
+
 ### Remote participation 
 
 Google hangout: https://hangouts.google.com/call/hirgqs7nl5ashoxqyfeakahezme
