@@ -18,6 +18,8 @@ The Embassy meeting room of Ambassade Hotel.
 
 Note that the meeting room is about 100 meters from the hotel. The address of the room is Singel 328, Amsterdam. [(see Google Maps)](https://goo.gl/maps/4wjoegcgBEs).
 
+Live meeting minutes: https://docs.google.com/document/d/1Owfba-bV_iVhjBnWya9R34jM8aixN58CAHirNI8uQcQ/edit?usp=sharing
+
 ### Remote participation 
 
 Google hangout: https://hangouts.google.com/call/hirgqs7nl5ashoxqyfeakahezme
