@@ -20,7 +20,7 @@ Note that the meeting room is about 100 meters from the hotel. The address of th
 
 ### Remote participation 
 
-If Wi-Fi connection allows, will setup Google hangout. Coordinates will be announced on the list.
+Google hangout: https://hangouts.google.com/call/hirgqs7nl5ashoxqyfeakahezme
 
 ## Day 2
 
